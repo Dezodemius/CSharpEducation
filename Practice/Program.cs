@@ -5,8 +5,6 @@
         internal static void Main(string[] args)
         {
             Task1();
-            // Задание2
-            // Задание3
         }
 
         internal static void Task1()
